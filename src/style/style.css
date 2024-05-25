@@ -1,0 +1,18 @@
+.headingContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btnstyle{
+    background-color: rgb(250, 133, 125);
+    color: white;
+    border-radius: 20%;
+}
+.nav-link {
+    margin-right: 2px;
+}
+.showtodostyle{
+    justify-content: space-between;
+    display: flex;
+}
